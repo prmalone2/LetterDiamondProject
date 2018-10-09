@@ -24,57 +24,57 @@ z
 
 output:
 
-A
-BB
-CC
-DD
-EE
-FF
-GG
-HH
-II
-JJ
-KK
-LL
-MM
-NN
-OO
-PP
-QQ
-RR
-SS
-TT
-UU
-VV
-WW
-XX
-YY
-ZZ
-YY
-XX
-WW
-VV
-UU
-TT
-SS
-RR
-QQ
-PP
-OO
-NN
-MM
-LL
-KK
-JJ
-II
-HH
-GG
-FF
-EE
-DD
-CC
-BB
-A
+                         A
+                        B B
+                       C   C
+                      D     D
+                     E       E
+                    F         F
+                   G           G
+                  H             H
+                 I               I
+                J                 J
+               K                   K
+              L                     L
+             M                       M
+            N                         N
+           O                           O
+          P                             P
+         Q                               Q
+        R                                 R
+       S                                   S
+      T                                     T
+     U                                       U
+    V                                         V
+   W                                           W
+  X                                             X
+ Y                                               Y
+Z                                                 Z
+ Y                                               Y
+  X                                             X
+   W                                           W
+    V                                         V
+     U                                       U
+      T                                     T
+       S                                   S
+        R                                 R
+         Q                               Q
+          P                             P
+           O                           O
+            N                         N
+             M                       M
+              L                     L
+               K                   K
+                J                 J
+                 I               I
+                  H             H
+                   G           G
+                    F         F
+                     E       E
+                      D     D
+                       C   C
+                        B B
+                         A
 
 
 
@@ -84,57 +84,58 @@ Z
 
 output:
 
-A
-BB
-CC
-DD
-EE
-FF
-GG
-HH
-II
-JJ
-KK
-LL
-MM
-NN
-OO
-PP
-QQ
-RR
-SS
-TT
-UU
-VV
-WW
-XX
-YY
-ZZ
-YY
-XX
-WW
-VV
-UU
-TT
-SS
-RR
-QQ
-PP
-OO
-NN
-MM
-LL
-KK
-JJ
-II
-HH
-GG
-FF
-EE
-DD
-CC
-BB
-A
+
+                         A
+                        B B
+                       C   C
+                      D     D
+                     E       E
+                    F         F
+                   G           G
+                  H             H
+                 I               I
+                J                 J
+               K                   K
+              L                     L
+             M                       M
+            N                         N
+           O                           O
+          P                             P
+         Q                               Q
+        R                                 R
+       S                                   S
+      T                                     T
+     U                                       U
+    V                                         V
+   W                                           W
+  X                                             X
+ Y                                               Y
+Z                                                 Z
+ Y                                               Y
+  X                                             X
+   W                                           W
+    V                                         V
+     U                                       U
+      T                                     T
+       S                                   S
+        R                                 R
+         Q                               Q
+          P                             P
+           O                           O
+            N                         N
+             M                       M
+              L                     L
+               K                   K
+                J                 J
+                 I               I
+                  H             H
+                   G           G
+                    F         F
+                     E       E
+                      D     D
+                       C   C
+                        B B
+                         A
 
 
 
@@ -144,11 +145,11 @@ c
 
 output:
 
-A
-BB
-CC
-BB
-A
+  A
+ B B
+C   C
+ B B
+  A
 
 
 
@@ -158,11 +159,11 @@ C
 
 output:
 
-A
-BB
-CC
-BB
-A
+  A
+ B B
+C   C
+ B B
+  A
 
 
 
