@@ -38,15 +38,37 @@ namespace LetterDiamondProject
 
         public static void printDiamond(List<char> list)
         {
+            int numberOfInternalSpaces;
+            int numberOfExternalSpaces;
+            int maxExternalSpaces = (list.Count - 1) / 2;
             for (int i = 0; i < list.Count; i++)
             {
+                numberOfExternalSpaces = Math.Abs(i - maxExternalSpaces);
+                numberOfInternalSpaces = (maxExternalSpaces - numberOfExternalSpaces) * 2 - 1;
                 if (i == 0 || i == (list.Count - 1))
                 {
-                    Console.WriteLine(list[i]);
+                    string line = "";
+                    for(int j = 0; j < maxExternalSpaces; j++)
+                    {
+                        line += " ";
+                    }
+                    line += list[i].ToString();
+                    Console.WriteLine(line);
                 }
                 else
                 {
-                    Console.WriteLine(list[i].ToString() + list[i].ToString());
+                    string line = "";
+                    for (int j = 0; j < numberOfExternalSpaces; j++)
+                    {
+                        line += " ";
+                    }
+                    line += list[i].ToString();
+                    for (int k = 0; k < numberOfInternalSpaces; k++)
+                    {
+                        line += " ";
+                    }
+                    line += list[i].ToString();
+                    Console.WriteLine(line);
                 }
             }
         }
